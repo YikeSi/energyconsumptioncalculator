@@ -1,0 +1,40 @@
+body {
+    background: rgb(96, 125, 139);
+}
+
+p{
+    display: block;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    font-size: 100;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed',sans-serif;
+    color: white;
+    opacity: 0.2;
+    position: relative;
+}
+
+.title{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    font-size: 20;
+    opacity: 1;
+    text-align: center;
+    top: 8%;
+}
+
+#nylon{
+    margin-left: 7%;
+}
+
+#polyester{
+    margin-left: 4%;
+}
+
+#cotton{
+    margin-left: 2%;
+}
+
+#wool{
+    margin-left: 8%;
+}
